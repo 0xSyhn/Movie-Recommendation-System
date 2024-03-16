@@ -6,4 +6,6 @@ The data will is converted from text to vectors. Here the vector could be each w
                         
 The dataset chosen for the project was collected from kaggle.
 
+Note: get an API key from TMDB site and insert it in the URL provided in fetch_poster function. 
+
 link to the dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
